@@ -72,6 +72,7 @@ const createChatbotApp = (uicolor,apiLink) => {
       
       const floatingButton=document.createElement('button')
       floatingButton.className='fb'
+      //button
       floatingButton.innerHTML='💬'
       floatingButton.style.background='#30baae'
       floatingButton.style="background-color:#424769;color:white; border: none; border-radius: 50%; padding:20px; font-size:16px; cursor: pointer; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);"
